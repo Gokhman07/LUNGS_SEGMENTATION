@@ -1,0 +1,3 @@
+# LUNGS_SEGMENTATION
+
+In this study, we describe the process of building, fitting, and applying a Deep Learning and Neural Networks methods for segmentation task. The purpose of this research is to develop a deep learning system that can detect with high precision lungs on X-ray images. The use of deep learning and neural networks in medical image analysis has the potential to reduce the workload of healthcare professionals and enhance the speed and accuracy of diagnosis. Automated lung segmentation systems can perform the task in a fraction of the time required by manual segmentation, freeing up healthcare professionals to focus on other critical tasks
